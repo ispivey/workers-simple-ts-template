@@ -7,7 +7,7 @@ template.
 
 To get started:
 ```
-wrangler generate https://github.com/ispivey/workers-simple-ts-template
+wrangler generate my-project-name https://github.com/ispivey/workers-simple-ts-template
 ```
 
 ## How it works
