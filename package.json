@@ -1,0 +1,19 @@
+{
+  "name": "{{ project-name }}",
+  "version": "1.0.0",
+  "description": "Cloudflare Workers TypeScript project",
+  "main": "worker/worker.js",
+  "author": "{{ authors }}",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ispivey/workers-simple-ts-template"
+  },
+  "dependencies": {
+    "@cloudflare/workers-types": "^2.0.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^7.0.5",
+    "typescript": "^3.9.5"
+  }
+}
